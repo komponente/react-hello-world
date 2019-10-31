@@ -39,5 +39,11 @@
     "hello-world"
   ],
   "homepage": "https://github.com/komponente/react-hello-world#readme",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "bugs": {
+    "url": "https://github.com/komponente/react-hello-world/issues"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  }
 }
