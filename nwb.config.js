@@ -3,7 +3,7 @@ module.exports = {
   npm: {
     esModules: true,
     umd: {
-      global: 'react-simple-filereader',
+      global: 'react-hello-world',
       externals: {
         react: 'React'
       }

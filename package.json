@@ -1,7 +1,7 @@
 {
-  "name": "r-file-reader",
+  "name": "react-hello-world",
   "version": "1.0.0",
-  "description": "r-file-reader React component",
+  "description": "hello world",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
@@ -28,11 +28,16 @@
     "react": "^16.10.2",
     "react-dom": "^16.10.2"
   },
-  "author": "",
-  "homepage": "",
+  "author": "@srajagop",
   "license": "MIT",
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komponente/react-hello-world.git"
+  },
   "keywords": [
-    "react-component"
-  ]
+    "react-component",
+    "hello-world"
+  ],
+  "homepage": "https://github.com/komponente/react-hello-world#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }

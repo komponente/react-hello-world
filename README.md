@@ -1,10 +1,10 @@
-# r-file-reader
+# react-hello-world
 
 [![Travis][build-badge]][build]
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
 
-Describe r-file-reader here.
+Describe react-hello-world is a test component.
 
 [build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
 [build]: https://travis-ci.org/user/repo
