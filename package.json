@@ -1,6 +1,6 @@
 {
   "name": "@komponente/react-hello-world",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "description": "hello world",
   "main": "lib/index.js",
   "module": "es/index.js",
