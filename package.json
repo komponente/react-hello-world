@@ -1,5 +1,5 @@
 {
-  "name": "react-hello-world",
+  "name": "@komponente/react-hello-world",
   "version": "1.0.0",
   "description": "hello world",
   "main": "lib/index.js",
